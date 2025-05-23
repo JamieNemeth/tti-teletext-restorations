@@ -1,0 +1,390 @@
+PN,30001
+SC,0001
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:02.20
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,C]MAPORC PEID317A    PLANED PLANTD335   
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30002
+SC,0002
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:31.30
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,E]MGDAWSON'S CREEKC* NEW SERIES *G 312  
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30003
+SC,0003
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:04.00
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,F]MDGLAN CLWYD:AAPWYNTIAD AM 20.45!D318 
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30004
+SC,0004
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:02.10
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19, ]MDTHE LONG GOOD FRIDAYAIN ULSTERD 321 
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30005
+SC,0005
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:22.50
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,D]MFHENOG325  FRYSEITIAUG/FRECIPESG345  
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30006
+SC,0006
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:24.10
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,C]MDMAGICAL MERLINE314ADREAL MERLINE320 
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30007
+SC,0007
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:32.55
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,E]MG AGORIAD SIOP AC ARHOLIADAUC 336    
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30008
+SC,0008
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:31.20
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,F]MAFILM: MERLIN (II)D319A CWMDERID370A 
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30009
+SC,0009
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:26.00
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19, ]MASGORIO:DEUROPEAN SOCCER ACTIONA 330 
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30010
+SC,0010
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:20.10
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,A]MGS4C'S DIGITAL HELPLINEC0800 3893396 
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30011
+SC,0011
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:37.10
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,G]MDOUR E-MAIL: Asbectel@testun.co.uk   
+OL,20,                                        
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30012
+SC,0012
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:31.10
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,D]   CNoddir is-deitlau POBOL Y CWM     
+OL,20,T]   Cgan Nwy Prydain, Ynni Cartref     
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
+PN,30013
+SC,0013
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  300 Mon  5 AprC23:02.20
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5            
+OL,3,Q]W     +/}j?o0//j5    j?/%          
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]CTELETESTUN AR S4C / TELETEXT ON S4C  
+OL,7,                                        
+OL,8,C301 GHeddiw        F         TodayC301 
+OL,9,C302 GYfory         F      TomorrowC302 
+OL,10,C303+GS4C Digidol   F  FS4C DigitalC303+
+OL,11,C305 GIs-deitlau    F     SubtitlesC305 
+OL,12,C306 G"Newyddion"   F   "Newyddion"C306 
+OL,13,C307 GTywydd        F       WeatherC307 
+OL,14,C308 GFfilmiau      F         FilmsC308+
+OL,15,C310+GRhagflas      F      PreviewsC310+
+OL,16,C357 GY Sioe Gelf   F   Y Sioe GelfC358 
+OL,17,C360+GEdrych 'mlaen F Looking AheadC360+
+OL,18,A```````````````````````````````````````
+OL,19,T]CPOBOL Y CWM subtitles are sponsored  
+OL,20,T]     Cby British Gas Home Energy      
+OL,21,                                        
+OL,22,D]  GTELETEXT MAIN INDEX - PAGEG100     
+OL,23,                                        
+OL,24,AHeddiw/TodayBGwybodaeth/InfoCFilmsFHeno
+FL,301,399,308,325,3FF,300
