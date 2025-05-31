@@ -36,7 +36,7 @@ OL,0,        D]CTeletextG \100GApr05C00:02:05
 OL,1,G                                       
 OL,2,D]S    h|||   |4    |4        h|        
 OL,3,D]S     jh||45|||h}h||4|4|4~4       
-OL,4,D]S     jj.%5=/ 5j.%{1j PPPP   
+OL,4,D]S     jj.%5=/ 5j.%{1j        
 OL,5,T]S     */*//%/%/// /%*//%/%/%*/        
 OL,6,A```````````````````````````````````````
 OL,7,A          CC 4  W A L E SA     GXHWEN
@@ -66,7 +66,7 @@ OL,0,        D]CTeletextG \100GApr05C20:08:27
 OL,1,G                                       
 OL,2,D]S    h|||   |4    |4        h|        
 OL,3,D]S     jh||45|||h}h||4|4|4~4       
-OL,4,D]S     jj.%5=/ 5j.%{1j  PPPP  
+OL,4,D]S     jj.%5=/ 5j.%{1j        
 OL,5,T]S     */*//%/%/// /%*//%/%/%*/        
 OL,6,A```````````````````````````````````````
 OL,7,A          CC 4  W A L E SA     GXHWEN
@@ -96,7 +96,7 @@ OL,0,        D]CTeletextG \100GApr05C20:22:11
 OL,1,G                                       
 OL,2,D]S    h|||   |4    |4        h|        
 OL,3,D]S     jh||45|||h}h||4|4|4~4       
-OL,4,D]S     jj.%5=/ 5j.%{1j  PPPP  
+OL,4,D]S     jj.%5=/ 5j.%{1j        
 OL,5,T]S     */*//%/%/// /%*//%/%/%*/        
 OL,6,A```````````````````````````````````````
 OL,7,A          CC 4  W A L E SA     GXHWEN
@@ -126,7 +126,7 @@ OL,0,        D]CTeletextG \100GApr05C20:22:10
 OL,1,G                                       
 OL,2,D]S    h|||   |4    |4        h|        
 OL,3,D]S     jh||45|||h}h||4|4|4~4       
-OL,4,D]S     jj.%5=/ 5j.%{1j  PPPP  
+OL,4,D]S     jj.%5=/ 5j.%{1j        
 OL,5,T]S     */*//%/%/// /%*//%/%/%*/        
 OL,6,A```````````````````````````````````````
 OL,7,A          CC 4  W A L E SA     GXHWEN
@@ -156,7 +156,7 @@ OL,0,        D]CTeletextG \100GApr05C20:20:28
 OL,1,G                                       
 OL,2,D]S    h|||   |4    |4        h|        
 OL,3,D]S     jh||45|||h}h||4|4|4~4       
-OL,4,D]S     jj.%5=/ 5j.%{1j  PPPP  
+OL,4,D]S     jj.%5=/ 5j.%{1j        
 OL,5,T]S     */*//%/%/// /%*//%/%/%*/        
 OL,6,A```````````````````````````````````````
 OL,7,A          CC 4  W A L E SA     GXHWEN
@@ -166,7 +166,7 @@ OL,10,MBUY-NG A NEW CAR? LOOK NO FURTHER!  679
 OL,11,G                                       
 OL,12,CAUTOHUNTERFSearch our    T7R   `x<  T k
 OL,13,Finteractive database     T5R   $o|$ T j
-OL,14,Ffor the bjggest range    T5 Rnt t T j
+OL,14,Ffor the biggest range    T5 Rnt t T j
 OL,15,Fof used cars in the UK.  T5R*w  }T j
 OL,16,G                         T5Rn?' "lz| 
 OL,17,CAutohunter          G679FT5R   R(/q 
@@ -186,7 +186,7 @@ OL,0,        D]CTeletextG \100GApr05C20:02:22
 OL,1,G                                       
 OL,2,D]S    h|||   |4    |4        h|        
 OL,3,D]S     jh||45|||h}h||4|4|4~4       
-OL,4,D]S     jj.%5=/ 5j.%{1j  PPPP  
+OL,4,D]S     jj.%5=/ 5j.%{1j        
 OL,5,T]S     */*//%/%/// /%*//%/%/%*/        
 OL,6,A```````````````````````````````````````
 OL,7,A          CC 4  W A L E SA     GXHWEN
@@ -208,3 +208,4 @@ OL,22,M]ANO WORRIES TUESDAY - WILL WINDp568/3
 OL,23,M]ANO WORRJES TUESDAY - WJLL WJNDp568/3 
 OL,24,ATotal Ents   BTV Plus  CCity  FRacing  
 FL,400,110,500,570,1FF,800
+400,110,500,570,1FF,800

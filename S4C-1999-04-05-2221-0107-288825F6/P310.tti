@@ -1,0 +1,150 @@
+PN,31001
+SC,0001
+PS,8000
+CT,12,T
+OL,0,        USBECTEL  310 Mon  5 AprC20:26.37
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5      CA-Z  
+OL,3,Q]W     +/}j?o0//j5    j?/%  CSBECTEL
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]G    Dydd Llun/Monday, 05.04.99       
+OL,7,                                        
+OL,8,C300 GMynegaiC        F           Index 
+OL,9,C301 GHeddiw ar S4CC  F    Today on S4C 
+OL,10,C302 GYfory ar S4C     FTomorrow on S4C 
+OL,11,C303 GDigidol Heddiw     FDigital Today 
+OL,12,C304 GDigidol Yfory   FDigital Tomorrow 
+OL,13,C305 GIs-deitlau 888C F   Subtitles 888 
+OL,14,C306 G"Newyddion"   F       "Newyddion" 
+OL,15,C307 GTywydd        F           Weather 
+OL,16,C308 GFfilmiau      F F      Film Guide 
+OL,17,                                        
+OL,18,                                        
+OL,19,C311G The Big Breakfast                 
+OL,20,C312G Dawson's Creek                    
+OL,21,C313G Classic Cars                      
+OL,22,C314G The Magical Making Of Merlin      
+OL,23,                                    G1/5
+OL,24,ABig BreakfastBFilmsCToday's TVFIndex  P
+FL,311,308,301,300,3FF,300
+PN,31002
+SC,0002
+PS,8000
+CT,12,T
+OL,0,        SBECTEL  310 Mon  5 AprC20:21.27
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5      CA-Z  
+OL,3,Q]W     +/}j?o0//j5    j?/%  CSBECTEL
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]G    Dydd Llun/Monday, 05.04.99       
+OL,7,                                        
+OL,8,C315IGChannel 4 Racing                  
+OL,9,C316IGThe Montel Williams Show          
+OL,10,C317IGPorc Pei                          
+OL,11,C318IGGlan Clwyd                        
+OL,12,C319IGFilm: Merlin (Part 2)             
+OL,13,C320IGThe Real Merlin                   
+OL,14,C321IGThe Long Good Friday              
+OL,15,C322I                                   
+OL,16,C323E                                   
+OL,17,C324E                                   
+OL,18,                                        
+OL,19,C325EGHeno                              
+OL,20,C326G Swigod Sebon         FSoap Gossip 
+OL,21,                                        
+OL,22,C330G Sgorio                            
+OL,23,                                    G2/5
+OL,24,ABig BreakfastBFilmsCToday's TVFIndex   
+FL,311,308,301,300,3FF,300
+PN,31003
+SC,0003
+PS,8000
+CT,12,T
+OL,0,        SBECTEL  310 Mon  5 AprC20:03.24
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5      CA-Z  
+OL,3,Q]W     +/}j?o0//j5    j?/%  CSBECTEL
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]G    Dydd Llun/Monday, 05.04.99       
+OL,7,                                        
+OL,8,C331G Gol!                              
+OL,9,                                        
+OL,10,C333G Cyrsiau Dysgwyr FLearners Courses 
+OL,11,C334G 889 Dysgwyr         FLearners 889 
+OL,12,                                        
+OL,13,C335G Planed Plant                      
+OL,14,C336G Rownd A Rownd                     
+OL,15,                                        
+OL,16,C340G Ffermio                           
+OL,17,C341G FfermioF(English)                 
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,C344G C4 Programmes on S4C              
+OL,22,                                        
+OL,23,                                    G3/5
+OL,24,ABig BreakfastBFilmsCToday's TVFIndex   
+FL,311,308,301,300,3FF,300
+PN,31004
+SC,0004
+PS,8000
+CT,12,T
+OL,0,        SBECTEL  310 Mon  5 AprC20:23.12
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5      CA-Z  
+OL,3,Q]W     +/}j?o0//j5    j?/%  CSBECTEL
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]G    Dydd Llun/Monday, 05.04.99       
+OL,7,                                        
+OL,8,C345G Ryseitiau Ena      FEna's Recipes 
+OL,9,                                        
+OL,10,C348G i dot                             
+OL,11,                                        
+OL,12,C350G Y Clwb Rygbi                      
+OL,13,C351G Y Clwb Rygbi: Gemau     FFixtures 
+OL,14,C352G Y Clwb Rygbi                      
+OL,15,                                        
+OL,16,C355G Uned 5                            
+OL,17,                                        
+OL,18,                                        
+OL,19,C359G Sgrin                             
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                    G4/5
+OL,24,ABig BreakfastBFilmsCToday's TVFIndex  P
+FL,311,308,301,300,3FF,300
+PN,31005
+SC,0005
+PS,8000
+CT,12,T
+OL,0,        SBECTEL  310 Mon  5 AprC20:01.11
+OL,1,Q]W     x|th||0|||`||0|||h||4|          
+OL,2,Q]W      #j5j5  j5"!  j5      CA-Z  
+OL,3,Q]W     +/}j?o0//j5    j?/%  CSBECTEL
+OL,4,Q]W     |pjuz5ppjux4  jup0pp        
+OL,5,A]W     "#!"## ### ##  # "##!###        
+OL,6,A]G    Dydd Llun/Monday, 05.04.99       
+OL,7,                                        
+OL,8,C360+GEdrych 'Mlaen      FLooking Ahead 
+OL,9,C360G Dilyn Ddoe: Streic Y Ddafad Wyllt 
+OL,10,C361G Sian James Yn Siapan              
+OL,11,C362G The Establishment                 
+OL,12,C363G NYPD Blue                         
+OL,13,C364G Last Of The Hiding Tribes         
+OL,14,                                        
+OL,15,C369G Pengelli                          
+OL,16,C370G Pobol Y Cwm                       
+OL,17,C371G Brookside                         
+OL,18,                                        
+OL,19,C380+GHysbysebion       FAdvertisements 
+OL,20,C396G Sbectel Ar Y We FInternet Sbectel 
+OL,21,C398G Cwynion               FComplaints 
+OL,22,C399G Gwybodaeth           FInformation 
+OL,23,                                    G5/5
+OL,24,ABig BreakfastBFilmsCToday's TVFIndex  P
+FL,311,308,301,300,3FF,300
